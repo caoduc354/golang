@@ -1,3 +1,6 @@
+
+<h1>Hoc GoLang Basic</h1>
+
 <table border ="1px">
     <tr>
         <th>Ho Ten</th>
@@ -5,6 +8,6 @@
     </tr>
     <tr>
         <td>Nguyen Anh Duc</td>
-        <td>tfs-02</td>
+        <td>tfs-03</td>
     </tr>
 </table>
